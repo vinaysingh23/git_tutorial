@@ -1,6 +1,6 @@
 
 hi this is just a start in grapruby
-of git on fist days
+of git on fist days 4july
 
 first change
 this is the 2nd change 

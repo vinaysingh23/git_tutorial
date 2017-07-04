@@ -1,4 +1,4 @@
-hi this is just a start
+hello this is just a start
 of git
 first change
 this is the 2nd change 

@@ -1,5 +1,5 @@
 hello this is just a start
-of git
+of git on day one
 first change
 this is the 2nd change 
 feature1 1st change
